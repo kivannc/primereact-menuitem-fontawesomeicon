@@ -1,2 +1,2 @@
 # primereact-tabmenu-FontAwesomeIcon
-Created with CodeSandbox
+Example of how to use fontawesomeicon with primereact MenuItem
